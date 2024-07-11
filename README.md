@@ -27,6 +27,4 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"/>
 <br/><br/>
 
-### Algorithm
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=wooxexn">
 </div>
