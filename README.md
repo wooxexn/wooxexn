@@ -7,7 +7,7 @@
 <br/><br/>
 
 ### Me
-[![Naver Blog](https://img.shields.io/badge/Naver%20Blog-03C75A?style=for-the-badge&logo=Naver&logoColor=white)](https://blog.naver.com/jeonwooseon)<br/>
+[![Tistory Blog](https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white)](https://wooxexn.tistory.com/)<br/>
 [![Email](https://img.shields.io/badge/wooxexn@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:wooxexn@gmail.com)
 <br/><br/>
 
